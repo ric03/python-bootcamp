@@ -18,3 +18,23 @@ conda clean --all
 ```
 
 based on https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda
+
+## List of interresting links
+
+Basic Practice:
+
+http://codingbat.com/python
+
+More Mathematical Practice:
+
+https://projecteuler.net/archives
+
+List of Practice Problems:
+
+http://www.codeabbey.com/index/task_list
+
+Daily Practice Problems:
+
+https://www.reddit.com/r/dailyprogrammer
+
+http://www.pythonchallenge.com/
